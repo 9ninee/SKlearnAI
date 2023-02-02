@@ -1,2 +1,2 @@
 # SKlearnAI
-This is a personal learning project of AI function by Nigel Li 
+This is a self-learning project of AI function by Nigel Li 
